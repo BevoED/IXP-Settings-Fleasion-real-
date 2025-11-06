@@ -1,6 +1,8 @@
-# IXP-Settings-Fleasion-real-
+ **D0M4IN**
 Replaces roblox's IXP with a custom IXP that reroutes roblox to use Fleasion.
-  Steps are use the path:  
+ 
+ (THE BELOW STEPS ARE ONLY IF FLEASION/FFLAGS DO NOT WORK AFTER RUNNING)
+  how to fix use the path:  
   Windows>users>youruser>appdata>local>roblox>ClientSettings.  
   
   Inside this ClientSettings folder you will see IxpSettings.json, rename this file to "IxpSettings(1).json".  
