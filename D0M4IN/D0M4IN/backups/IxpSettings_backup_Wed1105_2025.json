@@ -1,0 +1,16 @@
+{
+  "FFlagRenderDisableShadows": "False",    
+  "FFlagGraphicsTextureQuality": "3",    
+  "FFlagTerrainEnable": "True",    
+  "DFIntTextureQualityOverride": "3",    
+  "DFFlagTextureQualityOverrideEnabled": "True",    
+  "FFlagDisablePostFx": "True",    
+  "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",    
+  "DFIntTaskSchedulerTargetFps": "9999",    
+  "DFFlagDisableDPIScale": "True",    
+  "DFFlagDebugPerfMode": "True",    
+  "FFlagHandleAltEnterFullscreenManually": "False",    
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",    
+  "FIntTerrainArraySliceSize": "0",    
+  "FFlagHttpUseRbxStorage10": "False"    
+}
