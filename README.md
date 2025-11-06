@@ -9,7 +9,7 @@ Replaces roblox's IXP with a custom IXP that reroutes roblox to use Fleasion.
 
   After this you can just run the .bat in my zip file, and then Fleasion, and it will work.
 
-  (If it stopps working after rejoin just re run the zip)
+  (If it stops working after rejoin just re run the zip)
 
 
-                                        (THIS IN NO WAY IS MEANT TO BE USED FOR CHEATING/EXPLOITATIONAL PURPOSES)
+  (THIS IN NO WAY IS MEANT TO BE USED FOR CHEATING/EXPLOITATIONAL PURPOSES)
